@@ -112,5 +112,3 @@ Dependencies included in the `requirements.txt`:
 # Authors
 - Khin Yadanar Win
 
-# Project Motivation
-I've been working on medical image analysis using image processing and machine learning since 2015. The list of my publications can be found on https://www.researchgate.net/profile/Khin-Win-13. I also publish individual interesting sections from my publications in separate repositories to make their access even easier.
