@@ -48,4 +48,22 @@ Dependencies included in the `requirements.txt`:
 > - Once the models are trained, you may now use the `model_evaluation.ipynb` and `model_tester.ipynb` to evaluate and test the models.
 > ***:heavy_exclamation_mark:This is long process to train and test the models.*** </p>
 
+## Performance Results
+
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th> 
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-Score</th>
+  </tr>
+  <tr>
+    <td>Fused-DenseNet-Tiny</td>
+    <td><strong>97.99%</strong></td>
+    <td><strong>98.38%</strong></td>
+    <td><strong>95.15%</strong></td>
+    <td><strong>95.26%</strong></td>
+  </tr>
+</table>
 
