@@ -54,16 +54,51 @@ Dependencies included in the `requirements.txt`:
   <tr>
     <th>Model</th>
     <th>Accuracy</th> 
-    <th>Precision</th>
-    <th>Recall</th>
+    <th>AUC</th>
+    <th>Cohem Kappa</th>
     <th>F1-Score</th>
   </tr>
   <tr>
-    <td>Fused-DenseNet-Tiny</td>
-    <td><strong>97.99%</strong></td>
-    <td><strong>98.38%</strong></td>
-    <td><strong>95.15%</strong></td>
-    <td><strong>95.26%</strong></td>
+    <td>XceptionNet</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+    <tr>
+    <td>ResNet50</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+     <tr>
+    <td>VGG19</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+    <tr>
+    <td>DenseNet201</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+    <tr>
+    <td>MobileNetV2</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+    <tr>
+    <td>EfficinetNetB2</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
   </tr>
 </table>
 
