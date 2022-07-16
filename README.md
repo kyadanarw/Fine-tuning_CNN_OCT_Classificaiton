@@ -33,7 +33,7 @@ Dependencies included in the `requirements.txt`:
 - Once the repository is cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - After installation of the dependecies, there are two options to evaluate or use the model.</p>
   
-***First option: Using the fine-tuned models:***
+***First option: Using the fine-tuned weights:***
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
 > - Run the `model_evaluation.ipynb` notebook to proceedthe evaluation.
