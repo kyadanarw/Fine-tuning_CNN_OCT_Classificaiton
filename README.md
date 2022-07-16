@@ -31,7 +31,7 @@ Dependencies included in the `requirements.txt`:
 - First download the dataset from the given links.
 - Then, clone this repository using git or download and extract the files manually.
 - Once the repository is cloned, CD into the folder and enter `pip install -r requirements.txt`. 
-<p>- After installation of the dependecies, there are two options to evaluate or use the model.</p>
+- After installation of the dependecies, there are two options to evaluate or use the model.</p>
   
 ***First option: Using the fine-tuned models:***
 > - Clone this repository or download it as zip file and extract the files manually
