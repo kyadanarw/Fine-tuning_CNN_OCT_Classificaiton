@@ -25,4 +25,4 @@ Dependencies included in the `requirements.txt`:
 - numpy
 - pandas
 - scikit-learn
-<p>***:heavy_exclamation_mark: The models were tranined using Kaggle's GPU.***</p>
+<p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU./p>
