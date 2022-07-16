@@ -25,7 +25,7 @@ Dependencies included in the `requirements.txt`:
 - numpy
 - pandas
 - scikit-learn
-<p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU.
+<p>:heavy_exclamation_mark: The models were tranined using Kaggle supported GPU.
  
   # How to use
 - First download the dataset from the given links.
@@ -36,7 +36,7 @@ Dependencies included in the `requirements.txt`:
 ***First option: Using the fine-tuned weights:***
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
-> - Run the `model_evaluation.ipynb` notebook to proceedthe evaluation.
+> - Run the `model_evaluation.ipynb` notebook to proceed the evaluation.
 > - Run `model_tester.ipynb` notebook to test them.</br>
 > ***:heavy_exclamation_mark:The fine-tuned weights of each model are stored inside the `weights/` folder.*** </p>
  
