@@ -45,5 +45,7 @@ Dependencies included in the `requirements.txt`:
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
 > - Run the `model_train.ipynb` notebook to retrain the models.
+> - Once the models are trained, you may now use the `model_evaluation.ipynb` and `model_tester.ipynb` to evaluate and test the models.
+> ***:heavy_exclamation_mark:This is long process to train and test the models.*** </p>
 
 
