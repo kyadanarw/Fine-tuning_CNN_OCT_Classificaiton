@@ -12,3 +12,17 @@
 
 ***:heavy_exclamation_mark:For a faster method, you may download the already prepared dataset from kaggle using the following link.*** 
 https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+
+# Dependencis
+Dependencies included in the `requirements.txt`: 
+- jupyter==1.0.0
+- keras==2.2.5
+- matplotlib
+- numpy==1.16.2
+- opencv-python==4.4.0.42
+- pandas==0.25.3
+- Pillow==7.2.0
+- scikit-learn
+- scikit-image
+- scikit-plot
+- scipy
