@@ -27,8 +27,8 @@ Dependencies included in the `requirements.txt`:
 - scikit-learn
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU.
  
-  #How to use
-  *** You may clone using git or download the repository and extract the files manually:
+  # How to use
+  *** You can clone using git or download the repository and extract the files manually:
 - Once the repository is cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - After installation of the dependecies, there are two options to evaluate or use the model.
 
