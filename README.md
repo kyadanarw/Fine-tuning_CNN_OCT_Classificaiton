@@ -59,6 +59,13 @@ Dependencies included in the `requirements.txt`:
     <th>F1-Score</th>
   </tr>
   <tr>
+    <td>InceptionNetV3</td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+    <td><strong>0000%</strong></td>
+  </tr>
+  <tr>
     <td>XceptionNet</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
@@ -66,14 +73,14 @@ Dependencies included in the `requirements.txt`:
     <td><strong>0000%</strong></td>
   </tr>
     <tr>
-    <td>ResNet50</td>
+    <td>VGG19</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
   </tr>
-     <tr>
-    <td>VGG19</td>
+    <tr>
+    <td>ResNet50</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
