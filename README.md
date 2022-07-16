@@ -25,4 +25,9 @@ Dependencies included in the `requirements.txt`:
 - numpy
 - pandas
 - scikit-learn
-<p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU./p>
+<p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU.
+ 
+  START HERE*** You may clone using git or download the repository and extract the files manually:
+- Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
+- After installation of the dependecies, there are two options to evaluate or use the model.
+
