@@ -38,5 +38,5 @@ Dependencies included in the `requirements.txt`:
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
 > - Run the `model_evaluation.ipynb` notebook to proceedthe evaluation.
 > - Run `model_tester.ipynb` notebook to test them.
-> **:heavy_exclamation_mark:The fine-tuned weightes of each model are stored inside the `weights/` folder.**
+> ***:heavy_exclamation_mark:The fine-tuned weights of each model are stored inside the `weights/` folder.***
 
