@@ -37,6 +37,6 @@ Dependencies included in the `requirements.txt`:
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
 > - Run the `model_evaluation.ipynb` notebook to proceedthe evaluation.
-> - Run `model_tester.ipynb` notebook to test them.
+> - Run `model_tester.ipynb` notebook to test them.</br>
 > ***:heavy_exclamation_mark:The fine-tuned weights of each model are stored inside the `weights/` folder.***
 
