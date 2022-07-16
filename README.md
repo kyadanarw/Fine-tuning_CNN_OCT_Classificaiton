@@ -109,3 +109,6 @@ Dependencies included in the `requirements.txt`:
   </tr>
 </table>
 
+# Authors
+- Khin Yadanar Win
+- Syna Sreng
