@@ -28,7 +28,8 @@ Dependencies included in the `requirements.txt`:
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle's GPU.
  
   # How to use
- First download the dataset from the given links.
+  ***First download the dataset from the given links.*** 
+
  Then, clone this repository using git or download and extract the files manually:
 - Once the repository is cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - After installation of the dependecies, there are two options to evaluate or use the model.
