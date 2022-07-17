@@ -59,21 +59,23 @@ Dependencies included in the `requirements.txt`:
     <th>F1-Score</th>
   </tr>
  
-    <tr>
+   <tr>
     <td>ResNet50</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
   </tr>
-    <tr>
+  
+   <tr>
     <td>DenseNet201</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
   </tr>
-    <tr>
+  
+   <tr>
     <td>MobileNetV2</td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
