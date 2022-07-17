@@ -36,16 +36,16 @@ Dependencies included in the `requirements.txt`:
 ***First option: Using the fine-tuned weights:***
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
-> - Run the `model_evaluation.ipynb` notebook to proceed the evaluation.
-> - Run `model_tester.ipynb` notebook to test them.</br>
+> - Run the `evaluate_model.ipynb` notebook to proceed the evaluation.
+> - Run `test_model.ipynb` notebook to test them.</br>
 > ***:heavy_exclamation_mark:The fine-tuned weights of each model are stored inside the `weights/` folder.*** </p>
  
  ***Second option: Retraining and Simulating the Models:***
 > - Make sure to download the dataset
 > - Clone this repository or download it as zip file and extract the files manually
 > - Install the requirements on a newly created environment to prevent issues with other existing ones.
-> - Run the `model_train.ipynb` notebook to retrain the models.
-> - Once the models are trained, you may now use the `model_evaluation.ipynb` and `model_tester.ipynb` to evaluate and test the models.
+> - Run the `train_model.ipynb` notebook to retrain the models.
+> - Once the models are trained, you may now use the `evaluate_models.ipynb` and `test_models.ipynb` to evaluate and test the models.
 > ***:heavy_exclamation_mark:This is long process to train and test the models.*** </p>
 
 ## Performance Results
