@@ -27,7 +27,7 @@ Dependencies included in the `requirements.txt`:
 - scikit-learn
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle supported GPU.
   
- # Dependencis
+ # Methods
 - ResNet50
 - DenseNet201
 - MobileNetV2
