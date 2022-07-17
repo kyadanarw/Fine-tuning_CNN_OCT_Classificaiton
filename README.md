@@ -28,6 +28,8 @@ Dependencies included in the `requirements.txt`:
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle supported GPU.
   
  # Convolutional Neural Networks
+ In this respository, seven convolutional neural networks are employed were evaluted and compared.
+ Adam optimizer with standard hyperparameters and categorial entropy loss are used as optimizer and loss function respectively.
 - ResNet50
 - DenseNet201
 - MobileNetV2
