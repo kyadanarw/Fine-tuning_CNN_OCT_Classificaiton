@@ -79,7 +79,7 @@ Dependencies included in the `requirements.txt`:
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
- 
+  </tr>
 </table>
 
 # Authors
