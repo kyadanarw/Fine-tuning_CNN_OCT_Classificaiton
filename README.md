@@ -26,7 +26,16 @@ Dependencies included in the `requirements.txt`:
 - pandas
 - scikit-learn
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle supported GPU.
- 
+  
+ # Dependencis
+- ResNet50
+- DenseNet201
+- MobileNetV2
+- XceptionNet
+- VGG19
+- InceptionV3
+- EfficientNetB2
+  
   # How to use
 - First download the dataset from the given links.
 - Then, clone this repository using git or download and extract the files manually.
