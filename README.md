@@ -27,7 +27,7 @@ Dependencies included in the `requirements.txt`:
 - scikit-learn
 <p>:heavy_exclamation_mark: The models were tranined using Kaggle supported GPU.
   
- # Methods
+ # Convolutional Neural Networks
 - ResNet50
 - DenseNet201
 - MobileNetV2
@@ -36,7 +36,7 @@ Dependencies included in the `requirements.txt`:
 - InceptionV3
 - EfficientNetB2
   
-  # How to use
+ # How to use
 - First download the dataset from the given links.
 - Then, clone this repository using git or download and extract the files manually.
 - Once the repository is cloned, CD into the folder and enter `pip install -r requirements.txt`. 
